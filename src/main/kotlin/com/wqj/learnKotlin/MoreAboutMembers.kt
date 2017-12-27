@@ -23,5 +23,5 @@ fun main(args: Array<String>) {
     a.d = X()
     println(a.d)
     println(a.e)
-
 }
+
