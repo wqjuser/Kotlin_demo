@@ -15,4 +15,5 @@ fun main(args: Array<String>) {
         args.isNotEmpty() && args[0] == "1" -> 1
         else -> 0
     }
+    println(mode)
 }
